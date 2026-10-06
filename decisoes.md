@@ -21,3 +21,5 @@
 - A página ficou melhor em telas pequenas.
 - O conteúdo ficou mais fácil de navegar.
 - A acessibilidade ficou boa.
+
+Projeto versionado com Git e preparado para publicação no GitHub.
