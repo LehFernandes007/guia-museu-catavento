@@ -43,15 +43,14 @@ body.pagina-detalhe {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 12px;
+    gap: 16px;
     min-width: 0;
-    padding: 16px;
-    background-color: #236c9b;
-    color: #fff;
+    padding: 20px 16px;
 }
 
 .identidade {
     text-align: center;
+    max-width: 600px;
 }
 
 header h1 {
@@ -72,7 +71,7 @@ header p {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 8px 18px;
+    gap: 10px 24px;
     min-width: 0;
 }
 
